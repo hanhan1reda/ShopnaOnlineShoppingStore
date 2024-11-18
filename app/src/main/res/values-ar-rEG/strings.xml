@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">شوبنا.</string>
+    <string name="onboarding_title1">اكتشف عالم المنتجات</string>
+    <string name="onboarding_desc1">تصفح واشتري مجموعة واسعة من العناصر، من الموضة إلى الإلكترونيات، كل ذلك في متناول يدك. استمتع بتجربة تسوق سلسة مصممة خصيصًا لك.</string>
+    <string name="onboarding_title2">توصيل سريع وموثوق</string>
+    <string name="onboarding_desc2">احصل على طلباتك إلى باب منزلك باستخدام خدمتنا الفعالة والموثوقة. تتبع طلبك في كل خطوة على الطريق.</string>
+    <string name="onboarding_title3">مدفوعات آمنة وسهلة</string>
+    <string name="onboarding_desc3">ادفع بثقة باستخدام بطاقتك الائتمانية. يضمن بوابة الدفع الآمنة لدينا عملية سلسة وآمنة في كل مرة.</string>
+    <string name="skip">تخطي</string>
+    <string name="next">التالي</string>
+    <string name="getStarted">أبدأ الأن</string>
+    <string name="welcome_back">مرحبًا بعودتك</string>
+    <string name="welcome_message">نحن متحمسون لعودتك، لا نستطيع الانتظار لمعرفة ما كنت تقوم به منذ آخر مرة قمت فيها بتسجيل الدخول.</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="signup_message">سجل الآن وابدأ في استكشاف كل ما يقدمه تطبيقنا. نحن متحمسون للترحيب بك في مجتمعنا!</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="remember_me">تذكرني</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="logging">تسجيل الدخول</string>
+    <string name="already_have_account">هل لديك حساب بالفعل؟ </string>
+    <string name="sign_up">سجل</string>
+    <string name="login">تسجيل الدخول </string>
+    <string name="email_empty_error">لا يمكن أن يكون البريد الإلكتروني فارغًا</string>
+    <string name="invalid_email_error">عنوان البريد الإلكتروني غير صالح</string>
+    <string name="password_empty_error">لا يمكن أن تكون كلمة المرور فارغة</string>
+    <string name="password_length_error">يجب أن تتكون كلمة المرور من 6 أحرف على الأقل</string>
+    <string name="terms_conditions">الشروط والأحكام</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="or_with">أو %1$s باستخدام</string>
+    <string name="by_agree">عبر %1$s، أنت توافق على</string>
+    <string name="and">و</string>
+    <string name="username_empty_error">لا يمكن أن يكون اسم المستخدم فارغًا</string>
+    <string name="username_length_error">يجب أن يتكون اسم المستخدم من 3 أحرف على الأقل</string>
+    <string name="phone_number_empty_error">لا يمكن أن يكون رقم الهاتف فارغًا</string>
+    <string name="phone_number_digits_error">يجب أن يحتوي رقم الهاتف على أرقام فقط</string>
+    <string name="phone_number_length_error">يجب أن يتكون رقم الهاتف من 10 أرقام على الأقل</string>
+    <string name="create_account_button">إنشاء حساب</string>
+    <string name="signing_up">تسجيل الدخول</string>
+    <string name="no_account_yet">لا تملك حسابًا بعد؟</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="new_collection" translatable="false">مجموعة جديدة</string>
+    <string name="discount_offer" translatable="false">خصم 50٪ على أول عملية</string>
+    <string name="shop_now" translatable="false">تسوق الآن</string>
+    <string name="categories" translatable="false">الفئات</string>
+    <string name="recommendations" translatable="false">التوصيات</string>
+    <string name="see_all" translatable="false">عرض الكل</string>
+    <string name="add_to_cart" translatable="false">أضف إلى السلة</string>
+    <string name="favorite" translatable="false">المفضلة</string>
+    <string name="percent_off" translatable="false"> % خصم </string>
+    <string name="currency_egp" translatable="false">جنيه</string>
+    <string name="total">الإجمالي:</string>
+    <string name="check_out">إتمام الشراء</string>
+    <string name="enter_promo_code">أدخل رمز الخصم</string>
+    <string name="applied">تم التطبيق</string>
+    <string name="my_cart">عربة التسوق</string>
+    <string name="empty_cart_message">لم تقم بإضافة أي منتجات إلى سلتك</string>
+    <string name="add">إضافة</string>
+    <string name="back_to_home">العودة إلى الصفحة الرئيسية</string>
+    <string name="quantity">الكمية</string>
+    <string name="show_more">عرض المزيد</string>
+    <string name="show_less">عرض أقل</string>
+    <string name="remove_from_cart">إزالة من العربة</string>
+    <string name="no_description">لا يوجد وصف</string>
+    <string name="warning">تحذير</string>
+    <string name="mobile_phone">رقم الهاتف</string>
+    <string name="mobile_phone_empty_error">رقم الهاتف لا يمكن أن يكون فارغًا</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="profile_picture">صورة الملف الشخصي</string>
+    <string name="edit_profile_picture">تعديل صورة الملف الشخصي</string>
+    <string name="no_change_name">لم تقم بتغيير الاسم.</string>
+    <string name="no_change_email">لم تقم بتغيير البريد الإلكتروني.</string>
+    <string name="no_change_phone">لم تقم بتغيير رقم الهاتف.</string>
+    <string name="ok">موافق</string>
+    <string name="no_favorites">لا توجد عناصر مفضلة ;(</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الإنجليزية</string>
+    <string name="back">رجوع</string>
+    <string name="my_profile">ملفي الشخصي</string>
+    <string name="user_profile_picture">صورة ملف المستخدم</string>
+    <string name="default_user_name">اسم المستخدم</string>
+    <string name="default_email">البريد الإلكتروني</string>
+    <string name="dark_mode">الوضع الليلي</string>
+    <string name="orders">الطلبات</string>
+    <string name="addresses">العناوين</string>
+    <string name="language">اللغة</string>
+    <string name="credit_cards">بطاقات الائتمان</string>
+    <string name="transactions">المعاملات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="navigate">انتقل إلى</string>
+    <string name="no_orders_found">لم يتم العثور على طلبات</string>
+    <string name="order_id">رقم الطلب: %1$s</string>
+    <string name="total_amount">الإجمالي: %1$s جنيه</string>
+    <string name="order_date">التاريخ: %1$s</string>
+    <string name="order_status">الحالة: %1$s</string>
+    <string name="order_details">تفاصيل الطلب</string>
+    <string name="loading">جار التحميل...</string>
+    <string name="discount_amount">الخصم: %1$s جنيه</string>
+    <string name="payment_method">طريقة الدفع: %1$s</string>
+    <string name="delivery_address">عنوان التوصيل</string>
+    <string name="address_details">التفاصيل: %1$s</string>
+    <string name="notes">ملاحظات: %1$s</string>
+    <string name="products">المنتجات</string>
+    <string name="price">السعر: %1$s جنيه</string>
+    <string name="search">بحث</string>
+    <string name="see_all_products">كل المنتجات</string>
+    <string name="see_all_categories">كل الفئات</string>">
+
+
+
+
+
+
+
+
+
+</resources>
