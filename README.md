@@ -49,6 +49,11 @@
 
 ---
 
+## 📸 Presentation
+
+https://github.com/user-attachments/assets/ce76a6f3-9421-4044-834c-38800f3bb7f3
+
+---
 ## 📸 Demo
 
 https://github.com/user-attachments/assets/5ee17401-b4cc-43e5-98a1-299d42b9235c
